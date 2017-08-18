@@ -98,3 +98,8 @@ gradlew.bat
 *.iml
 README.md
 # gradle/wrapper/gradle-wrapper.properties
+.gitignore
+build.gradle
+build/
+effectiveJava-study.iml
+src/
