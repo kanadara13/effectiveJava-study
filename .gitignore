@@ -89,17 +89,7 @@ gradle-app.setting
 #!gradle-wrapper.jar
 
 # Cache of project
-.gradletasknamecache
-
-# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 gradle
 gradlew
 gradlew.bat
-*.iml
-README.md
-# gradle/wrapper/gradle-wrapper.properties
-.gitignore
-build.gradle
-build/
 effectiveJava-study.iml
-src/
