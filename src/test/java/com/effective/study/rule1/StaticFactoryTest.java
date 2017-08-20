@@ -30,5 +30,7 @@ public class StaticFactoryTest {
         assertEquals("java",Person.getChild("java").getParents().getName());
 
         //Collections.checkedList()
+        Teams.getSalesTeam();
+        Teams.getTechTeam();
     }
 }
